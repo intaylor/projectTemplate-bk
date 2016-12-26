@@ -1,0 +1,26 @@
+{
+  "name": "project-template",
+  "version": "1.0.0",
+  "description": "A template project for node.js, hapi.js, react.js and redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/untaylor/projectTemplate.git"
+  },
+  "keywords": [
+    "node-hapi-react-redux"
+  ],
+  "author": "Taylor Wei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/untaylor/projectTemplate/issues"
+  },
+  "homepage": "https://github.com/untaylor/projectTemplate#readme",
+  "dependencies": {
+    "hapi": "^16.0.2",
+    "inert": "^4.0.4"
+  }
+}
